@@ -1,5 +1,6 @@
-# Это мой первый скрипт на курсе "Введение в инженерную деятельность"
-author_name = "Иванов Илья" 
-print("Hello, World!")
-print(f"I am a future engineer, and my name is {author_name}.")
-print("This project is now on GitHub!")
+artist = "The Beatles"
+song_1 = "Hey Jude"
+song_2 = "Let It Be"
+
+print(f"Мой любимый исполнитель: {artist}")
+print(f"Сейчас я слушаю {song_1} и {song_2}")
